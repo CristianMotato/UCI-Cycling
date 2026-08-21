@@ -17,7 +17,7 @@ export default function Home() {
       <section className="w-full lg:w-2/3 bg-black rounded-lg overflow-hidden border border-gray-700">
         <div className="aspect-video relative">
           <ReactPlayer
-            src='https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8'
+            src='https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8'
             playing={true} controls={true} width='100%' height='100%'
           />
         </div>
